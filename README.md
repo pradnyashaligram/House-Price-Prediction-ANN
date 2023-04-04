@@ -1,1 +1,1 @@
-# House-Price-Prediction-ANN
+# Hotel-Booking-Prediction-ANN
